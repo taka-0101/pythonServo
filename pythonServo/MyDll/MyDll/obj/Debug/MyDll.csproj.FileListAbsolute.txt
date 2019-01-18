@@ -1,0 +1,7 @@
+D:\VisualStudio2013\MyDll\MyDll\bin\Debug\MyDll.dll
+D:\VisualStudio2013\MyDll\MyDll\bin\Debug\MyDll.pdb
+D:\VisualStudio2013\MyDll\MyDll\bin\Debug\B3MLib.dll
+D:\VisualStudio2013\MyDll\MyDll\bin\Debug\Extensions.dll
+D:\VisualStudio2013\MyDll\MyDll\obj\Debug\MyDll.dll
+D:\VisualStudio2013\MyDll\MyDll\obj\Debug\MyDll.pdb
+D:\VisualStudio2013\MyDll\MyDll\obj\Debug\MyDll.csprojResolveAssemblyReference.cache
